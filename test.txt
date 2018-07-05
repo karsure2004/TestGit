@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is a text file. Updated in the local system.
+=======
+This is a text file. Updated in the github
+>>>>>>> 0e7d25ea2ce191104e896e1734e13053adc28603
+
+This is updated in local system.
